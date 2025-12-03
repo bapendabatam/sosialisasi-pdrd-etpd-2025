@@ -4,11 +4,13 @@ html, body {
 }
 
 body {
+	/*
 	background-image: url('rect-bot-right.png');
 	background-position: bottom right;
 	background-repeat: no-repeat;
 	background-size: 60px;
 	background-attachment: fixed;
+	*/
 }
 
 .logo {
@@ -168,11 +170,13 @@ body {
 	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
 	padding: 8px;
 	gap: 8px;
+	/*
 	background-image: url('rect-top-left.png');
 	background-position: top left;
 	background-repeat: no-repeat;
 	background-size: 60px;
 	background-attachment: fixed;
+	*/
 }
 
 #sosmed {
